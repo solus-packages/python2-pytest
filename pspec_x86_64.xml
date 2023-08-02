@@ -2,8 +2,8 @@
     <Source>
         <Name>python2-pytest</Name>
         <Packager>
-            <Name>Algent Albrahimi</Name>
-            <Email>algent@protonmail.com</Email>
+            <Name>Joey Riches</Name>
+            <Email>josephriches@gmail.com</Email>
         </Packager>
         <License>MIT</License>
         <PartOf>programming.python</PartOf>
@@ -202,12 +202,12 @@
         </Files>
     </Package>
     <History>
-        <Update release="2">
-            <Date>2022-04-16</Date>
+        <Update release="3">
+            <Date>2023-08-02</Date>
             <Version>4.6.11</Version>
             <Comment>Packaging update</Comment>
-            <Name>Algent Albrahimi</Name>
-            <Email>algent@protonmail.com</Email>
+            <Name>Joey Riches</Name>
+            <Email>josephriches@gmail.com</Email>
         </Update>
     </History>
 </PISI>
